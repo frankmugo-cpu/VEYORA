@@ -1,0 +1,22 @@
+[
+    { "id": 1, "title": "Beef Samosas (Pair)", "price": 150, "category": "food", "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop&q=80" },
+    { "id": 2, "title": "Chicken Shawarma", "price": 350, "category": "food", "image": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=500&auto=format&fit=crop&q=80" },
+    { "id": 3, "title": "Soft Layered Chapatis (3pcs)", "price": 120, "category": "food", "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500&auto=format&fit=crop&q=80" },
+    { "id": 4, "title": "Ugali with Beef Stew & Sukuma", "price": 400, "category": "food", "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&auto=format&fit=crop&q=80" },
+    { "id": 5, "title": "Grilled Nyama Choma (500g)", "price": 800, "category": "food", "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500&auto=format&fit=crop&q=80" },
+    { "id": 6, "title": "Golden Mandazi (4pcs)", "price": 100, "category": "food", "image": "https://images.unsplash.com/photo-1626094309830-abbb0c99da4a?w=500&auto=format&fit=crop&q=80" },
+    { "id": 7, "title": "Spicy Potato Crisps", "price": 150, "category": "food", "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=500&auto=format&fit=crop&q=80" },
+    { "id": 8, "title": "Loaded Masala Chips", "price": 250, "category": "food", "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?w=500&auto=format&fit=crop&q=80" },
+    { "id": 9, "title": "Beef Sausage Roll", "price": 180, "category": "food", "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=500&auto=format&fit=crop&q=80" },
+    { "id": 10, "title": "Cold Passion Juice (500ml)", "price": 150, "category": "food", "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500&auto=format&fit=crop&q=80" },
+    { "id": 11, "title": "High-Waisted Wide-Legged Pants", "price": 2500, "category": "clothes", "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&auto=format&fit=crop&q=80" },
+    { "id": 12, "title": "Trendy Ribbed Crop Top", "price": 1200, "category": "clothes", "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=80" },
+    { "id": 13, "title": "Classic Formal Trousers", "price": 2200, "category": "clothes", "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&auto=format&fit=crop&q=80" },
+    { "id": 14, "title": "Oversized Streetwear Hoodie", "price": 3000, "category": "clothes", "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=500&auto=format&fit=crop&q=80" },
+    { "id": 15, "title": "Casual Cargo Pants", "price": 2800, "category": "clothes", "image": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=500&auto=format&fit=crop&q=80" },
+    { "id": 16, "title": "Distressed Denim Jacket", "price": 3200, "category": "clothes", "image": "https://images.unsplash.com/photo-1523205771623-e0faa4d2813d?w=500&auto=format&fit=crop&q=80" },
+    { "id": 17, "title": "Smart Casual Blazer", "price": 4500, "category": "clothes", "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format&fit=crop&q=80" },
+    { "id": 18, "title": "Graphic Vintage Tee", "price": 1500, "category": "clothes", "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80" },
+    { "id": 19, "title": "Pleated Mini Skirt", "price": 1800, "category": "clothes", "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&auto=format&fit=crop&q=80" },
+    { "id": 20, "title": "High-Top Canvas Sneakers", "price": 3500, "category": "clothes", "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&auto=format&fit=crop&q=80" }
+]

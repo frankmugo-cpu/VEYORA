@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VEYORA-ONLINE STORE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+            <!-- Dashboard / Header Section -->
+    <header class="dashboard">
+        <div class="logo-container" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+            <!-- Replace 'logo.jpg' with your actual logo filename -->
+            <img src="logo.jpeg" alt="Veyora Logo" style="height: 50px; width: 50px; object-fit: cover; border-radius: 50%; border: 2px solid #F59E0B;">
+            <h1>VEYORA</h1>
+        </div>
+        <p class="tagline">Your premier online store for quality clothes and food items.</p>
+        <nav>
+            <a href="#products">Products</a>
+            <a href="#cart">Cart</a>
+            <a href="#contact">Contact & Delivery</a>
+        </nav>
+    </header>
+        </nav>
+    </header>
+
+    <main>
+        
+
+        <section id="products">
+    <h2>Our Kenyan Food Menu</h2>
+    <div id="food-grid" class="grid-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;"></div>
+
+    <h2>Youth Fashion & Clothing</h2>
+    <div id="clothes-grid" class="grid-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"></div>
+</section>
+
+        
+        <section id="cart" class="cart-section">
+            <h2>Shopping Cart</h2>
+            <div id="cart-items">
+                <p>Your cart is currently empty.</p>
+            </div>
+            <div class="cart-summary">
+                <h3>Total: KSH<span id="cart-total">0.00</span></h3>
+                <button id="checkout-btn">Proceed to Payment</button>
+            </div>
+        </section>
+
+       
+        <section id="contact" class="contact-section">
+            <h2>Contact & Delivery Information</h2>
+            <form id="contact-form">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" required placeholder="Enter your name">
+
+                <label for="phone">Phone Number / M-Pesa Number:</label>
+                <input type="text" id="phone" required placeholder="e.g., 0712345678">
+
+                <label for="location">Delivery Location:</label>
+                <input type="text" id="location" required placeholder="Enter your delivery address">
+
+                <button type="submit">Submit Details</button>
+            </form>
+        </section>
+
+        
+        <section id="feedback" class="feedback-section">
+            <h2>We Value Your Feedback</h2>
+            <textarea id="feedback-input" placeholder="Tell us how your experience was..."></textarea>
+            <button id="submit-feedback">Send Feedback</button>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
